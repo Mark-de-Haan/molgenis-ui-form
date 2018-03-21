@@ -1,5 +1,5 @@
 import FileFieldComponent from '@/components/field-types/FileFieldComponent'
-import { mount } from 'vue-test-utils'
+import { mount } from '@vue/test-utils'
 
 describe('FileFieldComponent unit tests', () => {
   const field = {

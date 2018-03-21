@@ -1,5 +1,5 @@
 import FormComponent from '@/components/FormComponent'
-import { shallow } from 'vue-test-utils'
+import { shallow } from '@vue/test-utils'
 
 describe('FormComponent unit tests', () => {
   it('should load the component with "FormComponent" as a name', () => {

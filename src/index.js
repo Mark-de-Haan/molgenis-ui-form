@@ -1,7 +1,7 @@
 // The Vue build version to load with the `import` command
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
-import FormDemo from './FormDemo'
+import FormDemo from './FormDemo.vue'
 import i18n from '@molgenis/molgenis-i18n-js/dist/molgenis-i18n.esm'
 
 Vue.config.productionTip = false

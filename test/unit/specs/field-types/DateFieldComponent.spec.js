@@ -1,5 +1,5 @@
 import DateFieldComponent from '@/components/field-types/DateFieldComponent'
-import { mount } from 'vue-test-utils'
+import { mount } from '@vue/test-utils'
 import moment from 'moment'
 
 describe('DateFieldComponent', () => {

@@ -1,5 +1,5 @@
 import RadioFieldComponent from '@/components/field-types/RadioFieldComponent'
-import { mount } from 'vue-test-utils'
+import { mount } from '@vue/test-utils'
 
 describe('RadioFieldComponent unit tests', () => {
   const field = {

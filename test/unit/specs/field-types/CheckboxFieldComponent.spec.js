@@ -1,5 +1,5 @@
 import CheckboxFieldComponent from '@/components/field-types/CheckboxFieldComponent'
-import { shallow } from 'vue-test-utils'
+import { shallow } from '@vue/test-utils'
 
 describe('CheckboxFieldComponent unit tests', () => {
   const options = [

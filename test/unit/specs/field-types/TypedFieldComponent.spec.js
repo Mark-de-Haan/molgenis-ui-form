@@ -1,5 +1,5 @@
 import TypedFieldComponent from '@/components/field-types/TypedFieldComponent'
-import { mount } from 'vue-test-utils'
+import { mount } from '@vue/test-utils'
 
 describe('TypedFieldComponent unit tests', () => {
   const mockParentFunction = () => {

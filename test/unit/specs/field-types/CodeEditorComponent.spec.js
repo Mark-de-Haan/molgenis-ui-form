@@ -1,5 +1,5 @@
 import CodeEditorFieldComponent from '@/components/field-types/CodeEditorFieldComponent'
-import { mount } from 'vue-test-utils'
+import { mount } from '@vue/test-utils'
 
 describe('CodeEditorFieldComponent unit tests', () => {
   const field = {

@@ -1,5 +1,5 @@
 import MultiSelectFieldComponent from '@/components/field-types/MultiSelectFieldComponent'
-import { mount } from 'vue-test-utils'
+import { mount } from '@vue/test-utils'
 import td from 'testdouble'
 
 describe('MultiSelectFieldComponent unit tests', () => {

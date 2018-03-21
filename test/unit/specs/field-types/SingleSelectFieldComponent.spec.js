@@ -1,5 +1,5 @@
 import SingleSelectFieldComponent from '@/components/field-types/SingleSelectFieldComponent'
-import { mount } from 'vue-test-utils'
+import { mount } from '@vue/test-utils'
 import td from 'testdouble'
 
 describe('SingleSelectFieldComponent unit tests', () => {

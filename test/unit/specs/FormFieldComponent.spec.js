@@ -1,5 +1,5 @@
 import FormFieldComponent from '@/components/FormFieldComponent'
-import { mount, shallow } from 'vue-test-utils'
+import { mount, shallow } from '@vue/test-utils'
 
 describe('FormFieldComponents unit tests', () => {
   const field = {

@@ -1,5 +1,5 @@
 import TextAreaFieldComponent from '@/components/field-types/TextAreaFieldComponent'
-import { mount } from 'vue-test-utils'
+import { mount } from '@vue/test-utils'
 
 describe('CheckboxFieldComponent unit tests', () => {
   const field = {
